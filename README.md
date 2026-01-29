@@ -1,4 +1,4 @@
-# 📊 Advanced SQL Analytics & Data Engineering Portfolio
+# 📊 Advanced SQL Analytics Portfolio
 
 ![SQL Server](https://img.shields.io/badge/Database-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-T--SQL-blue?style=for-the-badge)
