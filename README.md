@@ -64,5 +64,5 @@ I am currently open to opportunities as a Data Analyst or SQL Developer. Feel fr
 
 * 💼 **LinkedIn:** [Mahmoud Abd Elhadi](https://www.linkedin.com/in/mahmoud-abd-elhadi-9477a9261/)
 * 📧 **Email:** [My Email](mailto:mahmoudhadi2184@gmail.com)
-* 🐈 **GitHub:** [My Profile](https://github.com/mahmoudhadi2184-collab)
+* 🐈 **GitHub:** [My Profile](https://github.com/Mahmoud-Abd-Elhadi)
 *  📞 **Mobile / WhatsApp:** [+20 1097580203](https://wa.me/201097580203)
